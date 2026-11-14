@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=42&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Makoto%20Ushizaki&fontSize=42&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Animated typing line -->
@@ -16,10 +16,10 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-- 💻 I'm a developer who loves building things
-- 🌱 Currently learning: **YOUR_TOPIC**
-- 🎯 Goal for this year: **YOUR_GOAL**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+- 💻 Computer Science student who loves building things
+- 🌱 Currently learning: **Data Structures & Algorithms**
+- 🎯 Goal for this year: **Build and ship my own projects**
+- ⚡ Fun fact: **I code better with music on 🎧**
 
 <br clear="right"/>
 
@@ -69,13 +69,13 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
+  <a href="https://open.spotify.com/user/saq4rrbiccoo6dgh7wrr36czx" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/makoto-ushizaki-96a670403/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/power_compsci" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -85,8 +85,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=power_compsci&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power_compsci&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <!-- Footer banner -->
