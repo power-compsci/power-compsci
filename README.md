@@ -16,10 +16,12 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-- 💻 Computer Science student who loves building things
-- 🌱 Currently learning: **Data Structures & Algorithms**
-- 🎯 Goal for this year: **Build and ship my own projects**
-- ⚡ Fun fact: **I code better with music on 🎧**
+- 💻 **Computer Science student who loves to code & game**
+- 🌱 **Currently learning: Algorithms & Boolean Algebra**
+- 🎯 **Goal for this year: Build and ship my own projects**
+- ⚡ **Fun fact: I code better with music**
+- 🎮 **Love learning new things and fun hobbies like the guitar**
+- 🔊 **Already learned C (bidimensional matrices, structs, sorting algorithms etc.)**
 
 <br clear="right"/>
 
