@@ -45,17 +45,17 @@
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=steam" width="48" /><br/><b>Gaming</b>
+    <td align="center" width="160">
+      <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg" height="64" alt="Left 4 Dead 2" /><br/><b>Left 4 Dead 2</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/spotify/1DB954" width="48" /><br/><b>Music</b>
+      <img src="https://cdn.simpleicons.org/spotify/1DB954" height="64" alt="Music" /><br/><b>Music</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/goodreads/D4A373" width="48" /><br/><b>Reading</b>
+      <img src="https://covers.openlibrary.org/b/isbn/0451205766-M.jpg" height="64" alt="The Godfather" /><br/><b>The Godfather</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/strava/FC4C02" width="48" /><br/><b>Sports</b>
+      <img src="https://img.icons8.com/color/96/guitar.png" height="64" alt="Guitar" /><br/><b>Guitar</b>
     </td>
   </tr>
 </table>
@@ -80,4 +80,7 @@
   </a>
 </p>
 
----
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
