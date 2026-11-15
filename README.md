@@ -21,7 +21,7 @@
 - 🎯 **Goal for this year: Build and ship my own projects**
 - ⚡ **Fun fact: I code better with music**
 - 🎮 **Love learning new things and fun hobbies like the guitar**
-- 🔊 **Already learned C (bidimensional matrices, structs, sorting algorithms etc.)**
+- 🌝 **Already learned C & Python (bidimensional matrices, structs, sorting algorithms etc.)**
 
 <br clear="right"/>
 
