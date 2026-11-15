@@ -22,7 +22,7 @@
 - ⚡ **Fun fact: I code better with music**
 - 🎮 **Love learning new things and fun hobbies like the guitar**
 - 🌝 **Already learned C & Python (bidimensional matrices, structs, sorting algorithms etc.)**
-
+- 👾 **Future coding languagues I'd love to learn: Java, C++, TypeScript, Assembly, SQL etc.**
 <br clear="right"/>
 
 ---
