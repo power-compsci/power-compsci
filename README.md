@@ -18,7 +18,7 @@
 
 - 💻 **Computer Science student who loves to code & play videogames.**
 - 🌱 **Currently learning: Algorithms, Boolean Algebra,, Discrete Mathmatics & Data Analysis.**
-- 🎯 **Goal for this year: Pass with good grades, build a small project and improve my coding skills.**
+- 🎯 **Goal for this year: Pass with good grades and improve my coding skills.**
 - ⚡ **I really like coding with friends and discussing exercises.**
 - 🎮 **Love learning new things, fun hobbies and playing sports.**
 - 🌝 **Already learned C & Python (bidimensional matrices, structs, sorting algorithms etc.)**
