@@ -46,16 +46,24 @@
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg" height="64" alt="Left 4 Dead 2" /><br/><b>Left 4 Dead 2</b>
+      <a href="https://store.steampowered.com/app/550/Left_4_Dead_2/" target="_blank">
+        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg" height="64" alt="Left 4 Dead 2" />
+      </a><br/><b>Left 4 Dead 2</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/spotify/1DB954" height="64" alt="Music" /><br/><b>Music</b>
+      <a href="https://open.spotify.com/user/saq4rrbiccoo6dgh7wrr36czx" target="_blank">
+        <img src="https://cdn.simpleicons.org/spotify/1DB954" height="64" alt="Music" />
+      </a><br/><b>Music</b>
     </td>
     <td align="center" width="140">
-      <img src="https://covers.openlibrary.org/b/isbn/0451205766-M.jpg" height="64" alt="The Godfather" /><br/><b>The Godfather</b>
+      <a href="https://www.amazon.com.br/dp/0399103422" target="_blank">
+        <img src="https://covers.openlibrary.org/b/isbn/0451205766-M.jpg" height="64" alt="The Godfather" />
+      </a><br/><b>The Godfather</b>
     </td>
     <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/guitar.png" height="64" alt="Guitar" /><br/><b>Guitar</b>
+      <a href="https://www.jacksonguitars.com/" target="_blank">
+        <img src="https://img.icons8.com/color/96/guitar.png" height="64" alt="Guitar" />
+      </a><br/><b>Guitar</b>
     </td>
   </tr>
 </table>
