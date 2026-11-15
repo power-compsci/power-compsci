@@ -16,11 +16,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-- 💻 **Computer Science student who loves to code & game**
-- 🌱 **Currently learning: Algorithms & Boolean Algebra**
-- 🎯 **Goal for this year: Build and ship my own projects**
-- ⚡ **Fun fact: I code better with music**
-- 🎮 **Love learning new things and fun hobbies like the guitar**
+- 💻 **Computer Science student who loves to code & play videogames.**
+- 🌱 **Currently learning: Algorithms, Boolean Algebra,, Discrete Mathmatics & Data Analysis.**
+- 🎯 **Goal for this year: Pass with good grades, build a small project and improve my coding skills.**
+- ⚡ **I really like coding with friends and discussing exercises.**
+- 🎮 **Love learning new things, fun hobbies and playing sports.**
 - 🌝 **Already learned C & Python (bidimensional matrices, structs, sorting algorithms etc.)**
 - 👾 **Future coding languagues I'd love to learn: Java, C++, TypeScript, Assembly, SQL etc.**
 <br clear="right"/>
